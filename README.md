@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithm, Fullstack Development, Machine learning**
 
-- 👨‍💻 All of my projects are available at [To be updated!](To be updated!)
+- 👨‍💻 All of my projects are available at - *To be updated!*
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aditya-pateriya7781/](https://www.linkedin.com/in/aditya-pateriya7781/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityapateriya7986@gmail.com**
 
-- 📄 Know about my experiences [To be updated!](To be updated!)
+- 📄 Know about my experiences - *To be updated!*
 
 - ⚡ Fun fact **Movie Buff**
 
