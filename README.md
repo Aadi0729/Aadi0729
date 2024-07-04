@@ -1,3 +1,5 @@
+![logo](https://github.com/Aadi0729/Aditya-Pateriya/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Aditya Pateriya</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Machine Learning Enthusiast</h3>
 
