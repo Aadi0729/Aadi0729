@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at - *To be updated!*
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aditya-pateriya7781/](https://www.linkedin.com/in/aditya-pateriya7781/)
+- 📝 I regularly write articles on https://www.linkedin.com/in/aditya-pateriya7781/
 
 - 💬 Ask me about **Data Structures🖥️, Data Visualization📊, Web Development🌐, JavaScript Frameworks⚛️, Git & Version Control🔧**
 
@@ -22,7 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-pateriya7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-pateriya7781" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya_pateriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_pateriya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
