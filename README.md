@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithm, Fullstack Development, Machine learning**
 
-- 👨‍💻 All of my projects are available at - *To be updated!*
+- 👨‍💻 All of my projects are available at - *[To be updated!](https://aditya-pateriya-portfolio.vercel.app/)*
 
 - 📝 I regularly write articles on https://www.linkedin.com/in/aditya-pateriya7781/
 
