@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityapateriya7986@gmail.com**
 
-- 📄 Know about my experiences - *To be updated!*
+- 📄 Know about my experiences - *[Portfolio](https://aditya-pateriya-portfolio.vercel.app/)*
 
 - ⚡ Fun fact **Movie Buff**
 
