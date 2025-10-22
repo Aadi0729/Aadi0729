@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/aditya-pateriya7781/)
 
+- 📝 I regularly write blogs on [Hashnode](https://hashnode.com/@adityapateriya)
+
 - 💬 Ask me about **Data Structures🖥️, Data Visualization📊, Web Development🌐, JavaScript Frameworks⚛️, Git & Version Control🔧**
 
 - 📫 How to reach me **adityapateriya7986@gmail.com**
