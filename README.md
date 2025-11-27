@@ -1,5 +1,4 @@
-![logo](<img width="1584" height="396" alt="Github Profile" src="https://github.com/user-attachments/assets/155b49db-faba-412c-832b-4f338f050e3a" />
-)
+![logo](<img width="821" height="272" alt="Github Banner" src="https://github.com/user-attachments/assets/4a06fa13-008c-4db4-82d9-3c86a0ff9fbe" />)
 
 <h1 align="center">Hi 👋, I'm Aditya Pateriya</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Machine Learning Enthusiast</h3>
