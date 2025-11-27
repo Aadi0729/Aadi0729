@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aadi0729/Aadi0729/main/Github%20Profile.png" alt="Github Banner" width="821" height="272"/>
+  <img src="https://raw.githubusercontent.com/Aadi0729/Aadi0729/main/GithubBanner.png" alt="Github Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Pateriya</h1>
