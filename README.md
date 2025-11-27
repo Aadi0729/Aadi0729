@@ -1,4 +1,6 @@
-![logo](<img width="821" height="272" alt="Github Banner" src="https://github.com/Aadi0729/Aadi0729/blob/main/Github%20Profile.png?raw=true" />)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aadi0729/Aadi0729/main/Github%20Profile.png" alt="Github Banner" width="821" height="272"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Aditya Pateriya</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Machine Learning Enthusiast</h3>
